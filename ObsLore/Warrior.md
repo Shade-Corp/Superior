@@ -9,5 +9,23 @@ The pact fighter is a powerful ancestral warrior, who harnesses the souls of his
 Knight:
 4 specializations: duelist, weapon master(can develop to forge master), brute, and Calvary
 
+The duelist is a blade god. Domain expansion.
+Weapon masters are versatile warriors, using their vast array to match any damage they need.
+Brutes are big hulking smashy men. They devastate with big hulking smashes that are easily dodged. Timing of swings is key.
+Calvary are fast(ish) mounted combatants that use charges and momentum to pierce their foes. Can't change direction.
+
 Magic Swordsman:
 3 specializations: runic swordsman, dragon slayer, Paladin
+Runic swordsmen use various runic combinations to land devastating elemental combos. They propel by the rune, cut by the rune, and die by the rune. All to protect a dying art.
+Dragon slayers wield unwieldy blades. Against beasts, they wield hook and chain. Against men, they use deft sweeping motions. With both, they channel their dragon born blood to form various auras. 
+Paladins are holy warriors sworn by oath. They crush foes with devastating might. Whether by hammer, greatsword, or axe, you don't want to be hit. A relentless mix of holy light and blows ensures only agony.
+
+
+
+Berserkers are beings that must endure their rage. During their wrath, they are nigh unkillable. Compact with resistances, speed, damage, and life steal, a raging berserker is a nightmare to deal with. The difficulty of a berserker, is that they are a little TOO into it. When a berserker rages, both allies and enemy are blended. There is no distinguishing the golden sheen of your enemy and the depressed gloom of billy. 
+Additionally, for true berserkers, all things that enter your range of attack ARE attacked. Rationality is repressed and for the most part, the body runs on autopilot. The true berserker might also relentlessly gore a corpse, caught up in the act of slaughter. He gains strength the more violently he goes glory kills, However, afterwards, he is immensely weak, being sluggish and acting with clarity.
+Pact fighters on the other hand thrive off of combat. Once they enter a rage, their ancestral rage will rapidly decrease, causing them to land comboes, attacks, and howls(which inflict debuffs) to replenish it. They gain strength the more pact fighters are around them, friend or foe.
+Thralls are a somewhat of a different breed. Being the servants of vampires, or pushing all the way to a vampire lord, thralls seek blood and fear day light. They can revive corpses that they had entralled in the midst of combat, causing them to join the thrall in its endless conquest for death. In addition, it can augment all of its attacks with blood, growing stronger and changing in form depending on moon phase, amount of blood, and vampire level. Thralls expand like an infection, causing a nightmarish swarm to descend. On the other hand, that very blood can be weaponized. Damage and posion in blood can easily decimate a bloodlusted vampire.
+
+Knights are the generic soldier. They are however, by no means boring. Each knight is a central figure in warfare, turning tides with loyalty to their own banner. They unlock "oath" at level 15. This central mechanic allows them to swear an oath to a regent and obtain special effects in the midst of combat.
+The duelist is a god of blades. Creating isolated zones which allow them to cripple opponents, they can domain expansion all over the place. Think fiora x camille. 
