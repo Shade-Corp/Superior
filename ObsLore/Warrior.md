@@ -7,7 +7,7 @@ However, the berserker does not necessarily have no survivability, each sacrific
 The pact fighter is a powerful ancestral warrior, who harnesses the souls of his ancestors to empower him. In exchange for power, they are also driven mad.
 
 Knight:
-4 specializations: duelist, weapon master(can develop to forge master), brute,  
+4 specializations: duelist, weapon master(can develop to forge master), brute, and Calvary
 
 Magic Swordsman:
-3 specializations: runic swordsman, dragon slayer, 
+3 specializations: runic swordsman, dragon slayer, Paladin

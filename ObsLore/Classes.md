@@ -15,3 +15,5 @@ The subclasses are: Assassin, battle dancer, and (placeholder)
 [[Warrior]]:
 Warriors are powerful melee warriors who utilize sustainability to hold the fore line in battle.
 The subclasses are: berserker, knight, and magic swordsman.
+
+Enabler:
