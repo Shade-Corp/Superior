@@ -29,3 +29,7 @@ Thralls are a somewhat of a different breed. Being the servants of vampires, or 
 
 Knights are the generic soldier. They are however, by no means boring. Each knight is a central figure in warfare, turning tides with loyalty to their own banner. They unlock "oath" at level 15. This central mechanic allows them to swear an oath to a regent and obtain special effects in the midst of combat.
 The duelist is a god of blades. Creating isolated zones which allow them to cripple opponents, they can domain expansion all over the place. Think fiora x camille. 
+Weapon masters wield a change blade, a sword capable of shifting form to any variety of damage. They are the embodiement of footwork and weapon skills. He has to chain together attacks and defenses using only his singular blade.
+Brutes hit hard and swing slow. Despite their hulking nature, brutes must be very methodical if they hope to enjoy success.
+Calvary chain quick dashes and lunges to route small groups of foes. Rell/hecarim.
+
