@@ -55,44 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rogue.md",
+                "file": "Gameplay/Classes/Enabler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rogue"
-            }
-          },
-          {
-            "id": "97de7bb4f803cd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warrior.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Warrior"
-            }
-          },
-          {
-            "id": "acf4c68faa84a824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Classes/Warrior.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Warrior"
+              "title": "Enabler"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,8 +226,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "acf4c68faa84a824",
+  "active": "a8cae9d1de88afd9",
   "lastOpenFiles": [
+    "Gameplay/Classes/Mage.md",
+    "Gameplay/Crafting/gemworking.md",
+    "Gameplay/Classes/Enabler.md",
+    "Gameplay/Crafting/leatherworking.md",
+    "gem.md",
+    "Gameplay/Crafting/Blacksmithing.md",
+    "Gameplay/Crafting",
+    "crafting.md",
+    "Gameplay/Classes/Classes.md",
+    "header.md",
+    "Gameplay.md",
+    "Gameplay/Classes/Warrior.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/The Kingdom of Ewigkeit.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Preisk.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Cadarnle.md",
@@ -267,16 +251,11 @@
     "Lore/Western Continent/Geography",
     "Lore/Western Continent",
     "Lore",
-    "Gameplay/Classes/Warrior.md",
     "Gameplay/Classes/Rogue.md",
     "Gameplay/Classes/Progression.md",
-    "Gameplay/Classes/Mage.md",
-    "Gameplay/Classes/Classes.md",
     "Gameplay/Classes/Archer.md",
-    "Gameplay/header.md",
     "Gameplay/Classes",
     "Gameplay",
-    "header.md",
     "Warrior.md",
     "Rogue.md",
     "Progression.md",
@@ -284,7 +263,6 @@
     "Classes.md",
     "Archer.md",
     "ObsLore",
-    "New folder",
     "[Mage.md"
   ]
 }

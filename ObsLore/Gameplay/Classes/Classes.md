@@ -16,4 +16,5 @@ The subclasses are: Assassin, battle dancer, and (placeholder)
 Warriors are powerful melee warriors who utilize sustainability to hold the fore line in battle.
 The subclasses are: berserker, knight, and magic swordsman.
 
-Enabler:
+[[Enabler]]:
+Enablers are the support class. There's 2 types. Combat enablers and world enablers. There's 3 types of combat enablers: tanks, priests,
