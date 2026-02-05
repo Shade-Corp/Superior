@@ -3,3 +3,9 @@ A wide reaching area filled with semi arid terrain. While for the most part flat
 The land is greatly elevated above the rest of the continent. It was formed when a tarasque(insert any powerful mythological creature) physically slammed two plates together by lifting it with plates. Think wedge.
 
 Covered by the watchful kingdom of Ewigkeit and the numerous rogue bands, each has taken to a specific side of the mountain range.
+
+The plains are arid and cold.
+
+Plant life itself tends to be fairly sparse, with only grasses and low hanging shrubs.
+
+Now keep in mind, we're designing a *fantasy* game. We can fill in this ecology with whatever we want.
