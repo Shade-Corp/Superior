@@ -16,3 +16,18 @@ There are also many party enablers, which includes skills like: [foragers](Forag
 
 Below is a full list:
 
+
+
+
+
+Combat enablers are people who support their team through powerful kits. While they're unable to do much damage on their own, each one is a highly sought after individual that provides on demand healing, zone protection, and buffs. One CANNOT spec into both a regular class AND a combat enabler.
+
+In a competent party, an enabler should be worth roughly 3 people worth of damage(in buffs and protection).
+
+the three subclasses are: paladin, cleric, 
+
+
+Paladins:
+paladins have 3 subclasses: 
+Each subclass is dependent on a "divinity" in a faction.
+
