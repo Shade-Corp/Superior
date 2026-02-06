@@ -2,3 +2,5 @@
 
 This is the starting place of the western continent. It is a city subject to the Kingdom of Ewigkeit.
 
+Located in [[De]]
+
