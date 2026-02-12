@@ -1,1 +1,0 @@
-The Old Religion is a modern name referring to 

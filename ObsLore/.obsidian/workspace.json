@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/De.md",
+                "file": "Lore/Western Continent/Geography/Veldetto Region/Old Religion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De"
+              "title": "Old Religion"
             }
           }
         ]
@@ -185,22 +185,24 @@
   },
   "active": "88dcc9af7b1d0fd0",
   "lastOpenFiles": [
-    "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/Cul.md",
+    "Lore/Western Continent/Geography/Veldetto Region/Veldetto region.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/The Kingdom of Ewigkeit.md",
+    "Lore/Western Continent/Geography/Veldetto Region/Old Religion.md",
+    "Lore/Western Continent/Geography/Veldetto Region",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/De.md",
+    "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/Cul.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/Ba.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Doran.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Bastion.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/Et.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Preisk.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Cadarnle.md",
-    "Lore/Western Continent/Old Religion.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors/Al.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit/Sectors",
     "Gameplay/Classes/Classes.md",
     "Gameplay/Classes/Mage.md",
     "Gameplay/Classes/Archer.md",
-    "Lore/Western Continent/Geography/Etulian High Plains/Etulian High Plains.md",
+    "Lore/Western Continent/Geography/Veldetto Region/Etulian High Plains/Etulian High Plains.md",
     "Lore/Western Continent/Powers/Untitled",
     "Gameplay/Classes/Enabler.md",
     "Gameplay/header.md",
@@ -214,12 +216,10 @@
     "Gameplay.md",
     "Gameplay/Classes/Warrior.md",
     "Lore/Western Continent/Powers/Kingdom of Ewigkeit",
-    "Lore/Western Continent/Geography/Etulian High Plains",
+    "Lore/Western Continent/Geography/Veldetto Region/Etulian High Plains",
     "Lore/Western Continent/Powers",
     "Lore/Western Continent/Geography",
     "Lore/Western Continent",
-    "Lore",
-    "Gameplay/Classes/Rogue.md",
-    "Gameplay/Classes"
+    "Lore"
   ]
 }

@@ -43,5 +43,7 @@ Wood is status symbol due to its rarity(very little present and no further impor
 
 The people are shorter and slightly more compact.
 
-There is no centralized religion, so each section has its own variations of the [[Old Religion]].
+While there is no centralized religion, the formal religion is Milism. The emphasis on Milism is owing entirely to ancient traders who came before the isolation. As a result, the primary religious force is different branches of The Old religion mixed with a central belief in Milism. Specifically, Modron, the mother earth.
+
+
 
