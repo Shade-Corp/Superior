@@ -38,4 +38,7 @@ The primary story follows:
 Annwynn's various attempts to steal his brother's rightful position. After a number of attempts to sabotage him, resulting in rain,
 Annwynn decieves Andrhynn and convinces him to meet him high above his father's domain.
 
-There, they get into a fight.
+There, they get into a fight. Where Andrhynn slays his brother and emerges victorious. Shedding tears for his brother, he tries to bring him back.
+
+Upon bringing him back, Annwynn always retreats, before inevitably returning to challenge his brother.
+
